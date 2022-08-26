@@ -1,0 +1,11 @@
+Liangyz
+2022-06-07-11:30am
+
+for this week, I finished the Monte Carlo tree algorithm but it not working well as I expected.
+Reason is mainly because there is some hyper parameter that I have to tune, I still try to find the best hyper parameter.
+However, it already better than the basic algorithm which I implemented in the first two week.
+
+My next work is try to find the best hyper parameter and also start to implement the Reinforcement learning; deep learning
+or just try to find one which I can use in the future.
+
+And I will complete the beginning of the paper, which will give to supervisor next week.

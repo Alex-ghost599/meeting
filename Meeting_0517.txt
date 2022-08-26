@@ -1,0 +1,14 @@
+Liangyz
+2022-05-17-11:30am
+
+For this week, I finished the following:
+1. Implemented the Minimax algorithm in the game
+2. Contected the library writer to fix the bug mentioned in the Meeting_0503.txt, which I find out that bug is not in my code,
+it is the bug of the library(pygame_menu.py).
+3. also the alphabeta algorithm in Minimax.
+
+
+Also try some different version of the alphabeta algorithm, like adding hash table to the alphabeta algorithm which
+can speed up the algorithm by save the move when it wins the game and skip the process when next time meet the same situation.
+
+For next week, I should start to implement the Monte Carlo algorithm.

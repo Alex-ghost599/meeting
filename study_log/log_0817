@@ -1,0 +1,12 @@
+Liangyz
+2022-08-17-11-56
+
+I find the way to normalize the score which used in MCTS step 1, it do make the agent better.
+
+the DDQN has over 100000 training rounds, and the strength of the agent is stronger than the basic agent but
+the overall performance is not good as other AI agents. But it is not suprising, as other paper says the DDQN is not
+good for the board game.
+
+Data is still not enough, it need more time.
+
+I finished the intro and implementation of paper. Now can start to write the evaluation part.

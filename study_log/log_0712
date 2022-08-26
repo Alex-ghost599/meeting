@@ -1,0 +1,11 @@
+Liangyz
+2022-07-12-16-41
+I was back to work last week.
+The DDQN is almost done. I found a paper shows 8 convolutional layers plus 2 fully connected layer is the best.
+which I will use it as I did not find any other paper and also did not have enough time to test other architectures.
+
+The MCTS is quite good for now with the new equation, but there is still some problems with the number when choosing
+the node to simulate. some was too big and some was too small. it need to somehow normalize the number. still trying to
+figure out how.
+
+sented the email to the supervisor try to have a meeting next week or so. maybe we can figure out someting.

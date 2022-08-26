@@ -1,0 +1,7 @@
+Liangyz
+2022-05-24-11:30am
+
+For this week, I didnot finish the Monte Carlo algorithm due to visa application which I need to go to Edinburgh.
+so today`s meeting is not takling too much.
+
+I will continue the implementation of MCTS. which is quite hard for now:)

@@ -1,0 +1,12 @@
+Liangyz
+2022-06-21-11:30am
+
+For this week, I am started to implement the DDQN algorithm, i am trying different numbers of hidden layers, but after
+each change it need to take a lot of training to know how well it works, a bit of waste of time.
+
+Regarding MCTS, I should have found a better formula to replace the on in step one. However, I still need to continue to
+test different
+Hyper-parameters. and overall, the strength of MCTS is lower than expected and may need to be further improved.
+
+This is my last meeting with my supervisor formally, and for the next two to three weeks I am planning a trip to Europe,
+so won`t be doing research any time soon.

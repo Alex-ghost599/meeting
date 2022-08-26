@@ -1,0 +1,18 @@
+Liangyz
+2022-08-10-13-55
+
+The MCTS is working well. the next step is to test the hyperparameters in equation. But still, some time the visit
+number is too big like 990/1000, I don't know why for the moment.
+
+The opening part is finished and following is the introduction of each part of project and implementation like
+the Othello itself.
+the rules of Othello.
+the implementation of Othello.
+The strategy of Othello.
+the basic agent of Othello.
+the different AI of Othello...
+
+And also I started to collect the data of the project by adding the data collection function in code.
+It need a quite long time to collect the data. for now, I am not sure what is useful for the project, so
+I just let each ai to play each other with data collection switched on, hoping that the data will be useful
+for the project later.

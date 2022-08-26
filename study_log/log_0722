@@ -1,0 +1,12 @@
+Liangyz
+2022-07-22-09-27
+
+The implement part of the project is almost done. It is time to think about the evaluation part.
+
+I will rewrite the opening part of the paper which I done quite badly.
+
+For evaluation, I plan to do:
+test about black/white balance
+test which basic method is better
+test the effect of different parameters in different agent
+test the strength of the each agent

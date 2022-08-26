@@ -1,0 +1,7 @@
+Liangyz
+2022-04-26-11am
+we meet online for our first meeting, it discuss about how I can start my project.
+My project is about creating a program which can play the Board games call othello.
+What I can start with is to build the basic environment of the game, like the board, the rules,
+and, visual interaction window which allow user or Ai to play the game.
+For first week, I will try to complete those environment, hope it went well.

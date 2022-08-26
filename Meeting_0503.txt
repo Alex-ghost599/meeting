@@ -1,0 +1,13 @@
+Liangyz
+2022-05-03-11:30am
+Before the meeting started, I got two questions. As first meeting, supervisor suggested I can start with building a
+platform for AI to play with, and it should been seen by us physically.
+I wrote a platform by pygame with library pygame-menu, also two simple algorithm of game, but there is two problems:
+1. The AI only play it next move when I move my mouse.
+2. the Drop-down selection menu is not place properly.
+I should ask the supervisor if he can give me some advice.
+
+During the meeting, I show to the supervisor the platform and the algorithm, also with those two problems.
+I got some advice which I should try to implement.
+I also got some advice which I should try to do for next week:
+try to implement the AI algorithm which use the evluation and score of the board.

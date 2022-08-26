@@ -1,0 +1,9 @@
+Liangyz
+2022-06-14-11:30am
+
+I chose DDQN as the algorithm for my deep reinforcement learning agent. However, the understanding of artificial intelligence networks is
+somewhat difficult, and it may take a long time tto learn, hope I have enough time to complete it.
+
+At the same time, I am still improving the MCTS algorithm, it found some prombles, such as i feeling that some good nodes are
+selected too many times, which I did not know why. and feels that equation in steps one can be improve which i still try to find
+a better equation.

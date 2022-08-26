@@ -1,0 +1,4 @@
+Liangyz
+2022-05-10-11:30am
+For these week, I do implement the two algorithms, and I tried to compare the performance of them and also start to
+implement the third algorithm, which is the area of interest of this project, min-max algorithm.
